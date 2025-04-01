@@ -16,9 +16,6 @@
 - **Paleta moderna**: Gradientes suaves (#2c2c8a → #8a56c2) e contrastes cuidadosos.  
 - **Microinterações**: Hover effects e transições suaves (ex: botões que mudam de cor).  
 
-## 📸 Preview  
-*(Adicione um screenshot ou GIF mostrando a interface!)*  
-
 ## 💡 Melhorias Futuras  
 - [ ] Sincronização com nuvem (Firebase).  
 - [ ] Dark mode automático.  
